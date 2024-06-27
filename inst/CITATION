@@ -1,0 +1,18 @@
+
+bibentry(
+  bibtype = "Misc",
+  title = "mlts: Multilevel Latent Time Series Models with {R} and {Stan}",
+  author = c(person(given = "Kenneth", family = "Koslowski"),
+             person(given = "Fabian", family = "Münch"),
+             person(given = "Tobias", family = "Koch"),
+             person(given = "Jana", family = "Holtmann")),
+  year = "2024",
+  url = "https://github.com/munchfab/mlts",
+  header = "To cite mlts in publications use:",
+  textVersion = paste(
+    "Koslowski, K., Münch, F., Koch, T., & Holtmann, J. (2024).",
+    "mtls: Multilevel Latent Time Series Models with R and Stan.",
+    "https://github.com/munchfab/mlts"
+  ),
+  encoding = "UTF-8"
+)
